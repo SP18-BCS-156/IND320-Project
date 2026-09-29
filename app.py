@@ -15,12 +15,12 @@ home_page = st.Page(
 
 data_page = st.Page(
     "pages/1_Data_table.py",
-    title=" Dataset"
+    title="Data Representation"
 )
 
 plot_page = st.Page(
     "pages/2_Data_plot.py",
-    title=" Visualisation"
+    title="Visualisation"
 )
 
 info_page = st.Page(

@@ -71,8 +71,8 @@ st.markdown(
     This Project currently contains four pages:
 
     1. **Home** – introduction to the project
-    2. **Reservoir Data** – imported dataset and first-month data series
-    3. **Reservoir Visualisation** – interactive time-series exploration
+    2. **Data Representation** – imported dataset and first-month data series
+    3. **Visualisation** – interactive time-series exploration
     4. **Project Information** – project overview and documentation
     """
 )
