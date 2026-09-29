@@ -126,22 +126,17 @@ streamlit run app.py
 ReservoirScope is publicly available through Streamlit Community Cloud.
 
 **Streamlit:** 
-
+https://ind320-project.streamlit.app/
 ## Repository
-
+https://github.com/SP18-BCS-156/IND320-Project
 **GitHub:** 
 ## Future Development
 
-ReservoirScope is designed to evolve throughout the IND320 project.
+This is the part 1 the IND320 project.
 
 Future development may include:
 
-- Database integration
-- Replacing local CSV storage with MongoDB
-- Additional interactive analytics
-- Expanded data visualisation
-- Improved application architecture
-- Additional decision-support functionality
+- Mongo Database integration
 
 ## Author
 
