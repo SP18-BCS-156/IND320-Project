@@ -1,11 +1,9 @@
 
-# ReservoirScope
+# IND-320 Project - Part 1
 
-Reservoir is an interactive reservoir data analytics dashboard built with Python, Pandas, Matplotlib, and Streamlit.
+This project consist of an interactive reservoir data analytics dashboard built with Python, Pandas, Matplotlib, and Streamlit.
 
-The project was developed as part of the **IND320 – Data to Decision** course and focuses on exploring Norwegian reservoir data through preprocessing, exploratory analysis, interactive filtering, and time-series visualisation.
-
-## Features
+## Tasks
 
 - Load and preprocess reservoir data from CSV
 - Rename Norwegian variables to descriptive English labels
@@ -51,8 +49,6 @@ ReservoirScope/
 ## Dataset
 
 The project uses the `reservoirs.csv` dataset provided for the IND320 course.
-
-The dataset contains Norwegian reservoir observations from 1995 to 2026, including measurements from different geographical areas.
 
 The main measurements include:
 
@@ -102,7 +98,7 @@ The application uses `st.cache_data` to improve data-loading performance.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Zawaril/ReservoirScope.git
+git clone https://github.com/SP18-BCS-156/IND320-Project.git
 cd ReservoirScope
 ```
 
@@ -150,5 +146,4 @@ Future development may include:
 ## Author
 
 **Syed Muhammad Murtaza Zaidi**  
-MSc Data Science  
 Norwegian University of Life Sciences (NMBU)
