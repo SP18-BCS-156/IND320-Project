@@ -1,13 +1,13 @@
 import streamlit as st
 
 # Main Page Title
-st.title("Reservoir")
+st.title("IND-320 Project - Reservoir")
 
-st.subheader("Interactive Reservoir Data Analytics Dashboard")
+st.subheader("Reservoir Dashboard")
 
 st.write(
     """
-    Reservoir is a Streamlit-based data analytics application
+    Reservoir is a Streamlit-based application
     for exploring and visualising reservoir data.
 
     Use the sidebar to navigate between the different sections
@@ -16,4 +16,4 @@ st.write(
 )
 
 st.markdown("IND320 - Data to Decision")
-st.write("Compulsory Project Work - Part 1")
+st.write(" Project Work - Part 1")

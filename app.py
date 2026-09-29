@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configure Streamlit Page
 st.set_page_config(
-    page_title="ReservoirScope",
+    page_title="IND-320 Project - Reservoir",
     layout="wide"
 )
 
