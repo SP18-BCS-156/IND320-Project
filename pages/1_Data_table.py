@@ -146,7 +146,7 @@ st.dataframe(
         "First Month": st.column_config.LineChartColumn(
             "First Month",
             width="large",
-            color="#C46A42"
+            color="#502990"
         )
     },
     hide_index=True,
